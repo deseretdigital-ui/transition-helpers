@@ -1,0 +1,13 @@
+{
+  "name": "transition-helpers",
+  "main": "transitions.js",
+  "homepage": "https://github.com/deseretdigital-ui/transition-helpers",
+  "authors": [
+    "Joshua Stoutenburg <jehoshua02@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "bower_components"
+  ]
+}
